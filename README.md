@@ -18,7 +18,8 @@
 ### Contact with me 📝
 
 [<img align="left" alt="matsevh.eu" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="MatseVH | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="MatseVH | Instagram" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg" />][instagram]
+[<img align="left" alt="MatseVH | Twitter" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][twitter]
 
 <br />
 
@@ -58,10 +59,6 @@
 </div
 
 <br/>
-
----
-
-### ⭐️ From [MatseVH](https://github.com/matse2005) ### 
 
 ---
 
