@@ -17,9 +17,9 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="matsevh.eu" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
+[<img align="left" alt="matsevh.eu" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/841/841364.svg?token=exp=1618647719~hmac=145ee4ce6fab24dedb79952ee8c7adbb" />][website]
 [<img align="left" alt="MatseVH | Instagram" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1618647514~hmac=6a00ad956bf5c84ea2df24de029dcdcd" />][instagram]
-[<img align="left" alt="MatseVH | Twitter" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][twitter]
+[<img align="left" alt="MatseVH | Twitter" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1618647618~hmac=686751092b0621d645ab8e6bd2521185" />][twitter]
 
 <br />
 
