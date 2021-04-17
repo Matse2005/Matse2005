@@ -11,10 +11,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
----
-
 ### Contact with me 📝
 
 [<img align="left" alt="matsevh.eu" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/841/841364.svg?token=exp=1618647719~hmac=145ee4ce6fab24dedb79952ee8c7adbb" />][website]
