@@ -16,7 +16,7 @@
 [![Discord Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/profiles/584796844622872587?show_badges=false&logo=discord&logoColor=white&color=43B581)](https://discord.gg/S9vDaV2fFn) 
 [![Currently Doing](https://img.shields.io/badge/Currently%20Doing-Qmusic%20Bot-FF5A5F)](http://qmusic.m-vh.site) 
 [![Twitter](https://img.shields.io/badge/Twitter-@MatseVH-00acee)](https://twitter.com/MatseVH) 
-[![Email](https://img.shields.io/badge/Email%20matsevh@matsevh.eu-FF6347)]() 
+[![Email](https://img.shields.io/badge/Email%20matsevh@matsevh.eu)]() 
 
 
 <br />
