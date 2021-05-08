@@ -13,11 +13,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="matsevh.eu" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/841/841364.svg?token=exp=1618647719~hmac=145ee4ce6fab24dedb79952ee8c7adbb" />][website]
-[<img align="left" alt="MatseVH | Instagram" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1618647514~hmac=6a00ad956bf5c84ea2df24de029dcdcd" />][instagram]
-[<img align="left" alt="MatseVH | Twitter" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1618647618~hmac=686751092b0621d645ab8e6bd2521185" />][twitter]
-
-[![Discord Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/profiles/584796844622872587?simple=true&logo=discord&logoColor=white&color=43B581)](https://discord.gg/S9vDaV2fFn) 
+[![Discord Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/profiles/584796844622872587?show_badges=false&logo=discord&logoColor=white&color=43B581)](https://discord.gg/S9vDaV2fFn) 
 [![Currently Doing](https://img.shields.io/badge/Currently%20Doing-Qmusic%20Bot-FF5A5F)](http://qmusic.m-vh.site) 
 [![Twitter](https://img.shields.io/badge/Twitter-@MatseVH-00acee)](https://twitter.com/MatseVH) 
 [![Email](https://img.shields.io/badge/Email%20matsevh@matsevh.eu-FF6347)]() 
