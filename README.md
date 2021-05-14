@@ -4,8 +4,8 @@
 
 ## I'm a Developer
 
-- 👨‍💻 I’m currently working on Discord bots and websites.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working on fun projects.
+- 📚 I’m currently learning more technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play basketball 🏀.
 
@@ -13,17 +13,16 @@
 
 ### Contact with me 📝
 
-[![Discord Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/584796844622872587?show_badges=false&logo=discord&logoColor=white&color=7289DA)](https://discord.gg/S9vDaV2fFn) 
-[![Currently Doing](https://img.shields.io/badge/Currently%20Doing-Qmusic%20Bot-FF5A5F)](http://qmusic.m-vh.site) 
-[![Twitter](https://img.shields.io/badge/Twitter-@MatseVH-00acee)](https://twitter.com/MatseVH) 
+[![Discord Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/584796844622872587?show_badges=false&logo=discord&logoColor=white&color=7289DA)](https://discord.gg/S9vDaV2fFn)
+[![Currently Doing](https://img.shields.io/badge/Currently%20Doing-Qmusic%20Bot-FF5A5F)](http://qmusic.m-vh.site)
+[![Twitter](https://img.shields.io/badge/Twitter-@MatseVH-00acee)](https://twitter.com/MatseVH)
 [![Email](https://img.shields.io/badge/Email-matsevh@matsevh.eu-00acee)](mailto:matsevh@matsevh.eu)
-
 
 <br />
 
 ---
 
-### Languages and Tools 🛠 
+### Languages and Tools 🛠
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -36,8 +35,6 @@
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
 
@@ -62,7 +59,6 @@
 
 [website]: https://matsevh.eu
 [instagram]: https://www.instagram.com/matsevh
-[Twitter]: https://www.twitter.com/matsevh
+[twitter]: https://www.twitter.com/matsevh
 
-
-----
+---
