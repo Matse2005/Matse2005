@@ -17,6 +17,7 @@
 [![Currently Doing](https://img.shields.io/badge/Currently-Some%20Funny%20Stuff-FF5A5F)](http://m-vh.site)
 [![Twitter](https://img.shields.io/badge/Twitter-@MatseVH-00acee)](https://twitter.com/MatseVH)
 [![Email](https://img.shields.io/badge/Email-matsevh@matsevh.eu-00acee)](mailto:matsevh@matsevh.eu)
+[![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/matsevh/webscr?cmd=_s-xclick&hosted_button_id=E6RKPR34SH6CU) 
 
 <br />
 
