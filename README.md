@@ -17,7 +17,7 @@
 [![Currently Doing](https://img.shields.io/badge/Currently-Some%20Funny%20Stuff-FF5A5F)](http://m-vh.site)
 [![Twitter](https://img.shields.io/badge/Twitter-@MatseVH-00acee)](https://twitter.com/MatseVH)
 [![Email](https://img.shields.io/badge/Email-matsevh@matsevh.eu-00acee)](mailto:matsevh@matsevh.eu)
-[![Paypal](https://img.shields.io/badge/$-paypal-ff69b4.svg?style=flat)](https://paypal.me/matsevh)  
+[![Paypal](https://img.shields.io/badge/donate-paypal-ff69b4.svg?style=flat)](https://paypal.me/matsevh)  
 
 <br />
 
