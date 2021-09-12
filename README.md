@@ -34,6 +34,6 @@
 <h4 align="center"> My Github Repos: </h4>
 <p align="center"> These are the languages used on my GitHub repositories. </p>
 <p align="center">
-    <a href="https://github.com/gdhebling"><img align="center" alt="MatseVH's Github Stats"
+    <a href="https://github.com/matse2005"><img align="center" alt="MatseVH's Github Stats"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=matse2005&layout=compact)](https://github.com/matse2005/github-readme-stats" /></a>
 </p>
