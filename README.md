@@ -31,11 +31,9 @@
     <a href="https://gdhebling.com"><img align="center" alt="Next.js" width="26px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" /></a>
 </p>
 
-
-Commented Out due to Tailwind CSS file messing with the percentages. :)
 <h4 align="center"> My Github Repos: </h4>
 <p align="center"> These are the languages used on my GitHub repositories. </p>
 <p align="center">
     <a href="https://github.com/gdhebling"><img align="center" alt="MatseVH's Github Stats"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=matse2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a>
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=matse2005&layout=compact)](https://github.com/matse2005/github-readme-stats" /></a>
 </p>
