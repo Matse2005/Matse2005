@@ -2,7 +2,6 @@
 
 <h3 align="center"> I'm a Developer based in Tielt-Winge, Belgium</h3>
 <h4 align="center">Passionate about developing with multiple technologies.</h4>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M636HXS)
 
 <h4 align="center"> My Github Repos: </h4>
 <p align="center"> These are the languages used on my GitHub repositories. </p>
